@@ -1,4 +1,4 @@
-<base href="https://cdn.jsdelivr.net/gh/veryeducationing3/bobbert/">
+<base href="https://cdn.jsdelivr.net/gh/veryeducationing3/sobbert/">
 
 var createAzaharModule = (function() {
   var _scriptDir = typeof document !== 'undefined' && document.currentScript ? document.currentScript.src : undefined;
